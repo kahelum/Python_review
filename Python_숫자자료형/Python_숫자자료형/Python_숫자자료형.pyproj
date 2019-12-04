@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>822370e1-982f-4829-aa17-b636902366af</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python_숫자자료형.py</StartupFile>
+    <StartupFile>Python_4_조건문_IF.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,19 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Python_숫자자료형.py" />
+    <Compile Include="Practice.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Python_1_숫자자료형.py" />
+    <Compile Include="Python_2_기본입출력.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Python_3_리스트.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Python_4_조건문_IF.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
