@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>822370e1-982f-4829-aa17-b636902366af</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python_4_조건문_IF.py</StartupFile>
+    <StartupFile>Python_4_조건문.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -31,7 +31,7 @@
     <Compile Include="Python_3_리스트.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Python_4_조건문_IF.py">
+    <Compile Include="Python_4_조건문.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
