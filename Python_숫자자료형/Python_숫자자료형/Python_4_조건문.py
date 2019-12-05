@@ -3,7 +3,7 @@ if score >= 80:
     print("Good")
     print("점수가 80점 이상입니다.")
 elif score >= 70:
-    print("Not Bad ")
+    print("Not Bad")
     print("점수가 70점 이상입니다.")
 else:
     print("Bad")
