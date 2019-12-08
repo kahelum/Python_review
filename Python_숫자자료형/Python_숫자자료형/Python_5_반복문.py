@@ -1,3 +1,5 @@
+# 반복문 = iterative
+
 # 숫자 범위 표현 : range(시작, 끝)
 # continue : continue를 만났을 때 더 이상 명령을 실행하지 않고 다음 반복을 진행한다.
 # break : break를 만났면 반복문을 벗어난다.

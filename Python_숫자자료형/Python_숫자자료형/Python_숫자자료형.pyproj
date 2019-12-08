@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>822370e1-982f-4829-aa17-b636902366af</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python_5_반복문.py</StartupFile>
+    <StartupFile>Python_6_연산자.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -35,6 +35,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Python_5_반복문.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Python_6_연산자.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
