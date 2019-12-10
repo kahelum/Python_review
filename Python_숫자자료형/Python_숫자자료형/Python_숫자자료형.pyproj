@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>822370e1-982f-4829-aa17-b636902366af</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python_9_함수.py</StartupFile>
+    <StartupFile>Python_10_모듈.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,29 +24,35 @@
     <Compile Include="Practice.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Python_1_숫자자료형.py" />
-    <Compile Include="Python_2_기본입출력.py">
+    <Compile Include="Python_10_lib.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Python_3_리스트.py">
+    <Compile Include="Python_10_모듈.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Python_4_조건문.py">
+    <Compile Include="Python_01_숫자자료형.py" />
+    <Compile Include="Python_02_기본입출력.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Python_5_반복문.py">
+    <Compile Include="Python_03_리스트.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Python_6_연산자.py">
+    <Compile Include="Python_04_조건문.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Python_7_튜플.py">
+    <Compile Include="Python_05_반복문.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Python_8_시퀀스.py">
+    <Compile Include="Python_06_연산자.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Python_9_함수.py">
+    <Compile Include="Python_07_튜플.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Python_08_시퀀스.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Python_09_함수.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
