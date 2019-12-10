@@ -42,4 +42,3 @@ print (6 in list1)
 if 3 in list1:
     print("3을 포함하고 있습니다.")
 
-
