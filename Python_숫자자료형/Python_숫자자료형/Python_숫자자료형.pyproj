@@ -61,6 +61,9 @@
     <Compile Include="Python_12_사전.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Python_13_내장함수.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
