@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>822370e1-982f-4829-aa17-b636902366af</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python_12_사전.py</StartupFile>
+    <StartupFile>Python_13_내장함수.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
