@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>822370e1-982f-4829-aa17-b636902366af</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python_15_리스트2.py</StartupFile>
+    <StartupFile>Python_16_예외처리.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -68,6 +68,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Python_15_리스트2.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Python_16_예외처리.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
