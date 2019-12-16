@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>822370e1-982f-4829-aa17-b636902366af</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Python_16_예외처리.py</StartupFile>
+    <StartupFile>Python_18_파일입출력.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -73,6 +73,15 @@
     <Compile Include="Python_16_예외처리.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Python_17_람다식.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Python_18_파일입출력.py">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Python_18_input.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
